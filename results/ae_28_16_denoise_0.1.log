@@ -1,0 +1,6 @@
+RESULT mode denoise 0.1 width 28 code 16 seed 1 train_loss 0.1182 val_prauc 0.7664
+RESULT mode denoise 0.1 width 28 code 16 seed 2 train_loss 0.1382 val_prauc 0.5681
+RESULT mode denoise 0.1 width 28 code 16 seed 3 train_loss 0.1521 val_prauc 0.1387
+RESULT mode denoise 0.1 width 28 code 16 seed 4 train_loss 0.1284 val_prauc 0.7723
+RESULT mode denoise 0.1 width 28 code 16 seed 5 train_loss 0.1283 val_prauc 0.7522
+SUMMARY mode denoise 0.1 width 28 code 16 mean 0.5996 std 0.2713

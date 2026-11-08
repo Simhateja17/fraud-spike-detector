@@ -1,0 +1,9 @@
+PCA k 2 train_mse 0.8827 val_prauc 0.3474
+PCA k 4 train_mse 0.7855 val_prauc 0.3504
+PCA k 8 train_mse 0.6176 val_prauc 0.3609
+PCA k 16 train_mse 0.323 val_prauc 0.4836
+PCA k 20 train_mse 0.1925 val_prauc 0.553
+PCA k 24 train_mse 0.074 val_prauc 0.5656
+PCA k 27 train_mse 0.0217 val_prauc 0.81
+PCA k 28 train_mse 0.0101 val_prauc 0.6875
+PCA k 29 train_mse 0.0 val_prauc 0.1065

@@ -1,0 +1,6 @@
+RESULT mode denoise 0.1 width 28 code 8 seed 1 train_loss 0.2824 val_prauc 0.6506
+RESULT mode denoise 0.1 width 28 code 8 seed 2 train_loss 0.2427 val_prauc 0.4395
+RESULT mode denoise 0.1 width 28 code 8 seed 3 train_loss 0.2644 val_prauc 0.7557
+RESULT mode denoise 0.1 width 28 code 8 seed 4 train_loss 0.2585 val_prauc 0.7334
+RESULT mode denoise 0.1 width 28 code 8 seed 5 train_loss 0.214 val_prauc 0.7286
+SUMMARY mode denoise 0.1 width 28 code 8 mean 0.6616 std 0.1303

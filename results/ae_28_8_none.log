@@ -1,0 +1,6 @@
+RESULT mode none 0.0 width 28 code 8 seed 1 train_loss 0.2652 val_prauc 0.7403
+RESULT mode none 0.0 width 28 code 8 seed 2 train_loss 0.2275 val_prauc 0.4699
+RESULT mode none 0.0 width 28 code 8 seed 3 train_loss 0.2471 val_prauc 0.5567
+RESULT mode none 0.0 width 28 code 8 seed 4 train_loss 0.2531 val_prauc 0.7336
+RESULT mode none 0.0 width 28 code 8 seed 5 train_loss 0.2074 val_prauc 0.7138
+SUMMARY mode none 0.0 width 28 code 8 mean 0.6429 std 0.1226

@@ -1,0 +1,6 @@
+RESULT mode wd 0.001 width 28 code 16 seed 1 train_loss 0.0881 val_prauc 0.7662
+RESULT mode wd 0.001 width 28 code 16 seed 2 train_loss 0.0922 val_prauc 0.7695
+RESULT mode wd 0.001 width 28 code 16 seed 3 train_loss 0.1344 val_prauc 0.571
+RESULT mode wd 0.001 width 28 code 16 seed 4 train_loss 0.1174 val_prauc 0.1485
+RESULT mode wd 0.001 width 28 code 16 seed 5 train_loss 0.1566 val_prauc 0.5548
+SUMMARY mode wd 0.001 width 28 code 16 mean 0.562 std 0.2529

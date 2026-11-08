@@ -1,0 +1,6 @@
+RESULT mode none 0.0 width 28 code 24 seed 1 train_loss 0.0636 val_prauc 0.1086
+RESULT mode none 0.0 width 28 code 24 seed 2 train_loss 0.0433 val_prauc 0.3129
+RESULT mode none 0.0 width 28 code 24 seed 3 train_loss 0.0376 val_prauc 0.7955
+RESULT mode none 0.0 width 28 code 24 seed 4 train_loss 0.0411 val_prauc 0.7912
+RESULT mode none 0.0 width 28 code 24 seed 5 train_loss 0.0372 val_prauc 0.7943
+SUMMARY mode none 0.0 width 28 code 24 mean 0.5605 std 0.3273

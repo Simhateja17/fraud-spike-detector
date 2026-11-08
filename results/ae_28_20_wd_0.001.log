@@ -1,0 +1,6 @@
+RESULT mode wd 0.001 width 28 code 20 seed 1 train_loss 0.0794 val_prauc 0.7744
+RESULT mode wd 0.001 width 28 code 20 seed 2 train_loss 0.0761 val_prauc 0.2399
+RESULT mode wd 0.001 width 28 code 20 seed 3 train_loss 0.0896 val_prauc 0.567
+RESULT mode wd 0.001 width 28 code 20 seed 4 train_loss 0.1167 val_prauc 0.8089
+RESULT mode wd 0.001 width 28 code 20 seed 5 train_loss 0.078 val_prauc 0.2703
+SUMMARY mode wd 0.001 width 28 code 20 mean 0.5321 std 0.2695
